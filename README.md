@@ -20,12 +20,9 @@
 
 <!-- code_chunk_output -->
 
-- [Best Carding Websites 2024](#best-carding-websites-2024)
-  - [Contents](#contents)
   - [Crypto Exchanges](#crypto-exchanges)
   - [Fraud Stores](#fraud-stores)
   - [Bitcoin Mixers](#bitcoin-mixers)
-  - [Contribute](#contribute)
 
 <!-- /code_chunk_output -->
 
